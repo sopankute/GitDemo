@@ -13,6 +13,8 @@ public class GitDemoApplication {
 
 		GitDemoProgram gitDemoProgram = new GitDemoProgram();
 		gitDemoProgram.print();
+
+		System.out.println("GitDemoApplication.main | Responsible for Initializing Spring Boot Application");
 	}
 
 }
