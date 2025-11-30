@@ -10,4 +10,8 @@ public class DatabaseConfig {
         System.out.println("multi-db-config changes for PR");
     }
 
+    public void stashedLogic(){
+        System.out.println("DatabaseConfig.stashedLogic | stash program.");
+    }
+
 }
