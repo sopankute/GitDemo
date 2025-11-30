@@ -1,7 +1,5 @@
 package com.gitexample.gitdemo.util;
 
-import org.springframework.stereotype.Component;
-
 
 public class GitDemoProgram {
 
